@@ -1,0 +1,10 @@
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\bin\Debug\HA4_RegestrationFee.exe.config
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\bin\Debug\HA4_RegestrationFee.exe
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\bin\Debug\HA4_RegestrationFee.pdb
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\obj\Debug\HA4_RegestrationFee.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\obj\Debug\HA4_RegestrationFee.Form1.resources
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\obj\Debug\HA4_RegestrationFee.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\obj\Debug\HA4_RegestrationFee.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\obj\Debug\HA4_RegestrationFee.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\obj\Debug\HA4_RegestrationFee.exe
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA4_RegestrationFee\HA4_RegestrationFee\HA4_RegestrationFee\obj\Debug\HA4_RegestrationFee.pdb
