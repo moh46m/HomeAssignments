@@ -1,0 +1,10 @@
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\bin\Debug\HA1_Roombookin.exe.config
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\bin\Debug\HA1_Roombookin.exe
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\bin\Debug\HA1_Roombookin.pdb
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\obj\Debug\HA1_Roombookin.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\obj\Debug\HA1_Roombookin.Form1.resources
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\obj\Debug\HA1_Roombookin.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\obj\Debug\HA1_Roombookin.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\obj\Debug\HA1_Roombookin.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\obj\Debug\HA1_Roombookin.exe
+C:\Users\PC\OneDrive\Desktop\C#SHARP Week2\HA1_Roombookin\HA1_Roombookin\obj\Debug\HA1_Roombookin.pdb
