@@ -1,0 +1,10 @@
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\bin\Debug\HA2_Airlinebooking.exe.config
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\bin\Debug\HA2_Airlinebooking.exe
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\bin\Debug\HA2_Airlinebooking.pdb
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\obj\Debug\HA2_Airlinebooking.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\obj\Debug\HA2_Airlinebooking.Form1.resources
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\obj\Debug\HA2_Airlinebooking.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\obj\Debug\HA2_Airlinebooking.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\obj\Debug\HA2_Airlinebooking.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\obj\Debug\HA2_Airlinebooking.exe
+C:\Users\PC\OneDrive\Desktop\HomeAssignments\HomeAssignments\HA2_Airline\HA2_Airlinebooking\HA2_Airlinebooking\obj\Debug\HA2_Airlinebooking.pdb

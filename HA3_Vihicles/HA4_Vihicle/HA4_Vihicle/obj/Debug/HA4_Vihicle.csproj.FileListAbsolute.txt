@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\bin\Debug\HA4_Vihicle.exe.config
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\bin\Debug\HA4_Vihicle.exe
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\bin\Debug\HA4_Vihicle.pdb
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.Form1.resources
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.exe
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.pdb
+C:\Users\PC\OneDrive\Desktop\c#sharpweek2\HA4_Vihicle\HA4_Vihicle\obj\Debug\HA4_Vihicle.exe.config
